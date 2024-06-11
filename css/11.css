@@ -1,0 +1,12 @@
+h1{
+  font-family: "Luckiest Guy", cursive;
+  font-weight: 400;
+  font-size: 8em;
+  font-style: normal;
+  letter-spacing: 8px;
+  text-align: center;
+  color: #FFCBCB;
+  text-shadow: #5385cb -6px -6px ,-5px -5px #5385cb, -4px -4px #5385cb, -2px -2px #5385cb,
+ 0px 0px #5385cb, 2px 2px #5385cb, 4px 4px #5385cb, 6px 6px #5385cb, 8px 8px #5385cb, 10px 10px #5385cb, 12px 12px #5385cb, 14px 14px #5385cb, 16px 16px #5385cb, 18px 18px #5385cb, 20px 20px #5385cb, 22px 22px #5385cb;
+}
+
